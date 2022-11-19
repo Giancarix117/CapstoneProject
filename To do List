@@ -1,0 +1,15 @@
+1. Vulnerability Scan
+2. Penetration testing
+3. Secure Code Review
+    Authentication
+    Authorization
+    Session management
+    Data validation
+    Error handling
+    Logging
+    Encryption
+    Input sanitization
+4. Specifics that must be covered
+  Password reset.
+  Access to a database.
+  The authentication process.
