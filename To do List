@@ -27,4 +27,15 @@ Make sure to Document every step and show pictures
   Access to a database.
   The authentication process.
 5. Securing Google cloud
-    Followed Blueprint
+    Followed Blueprint security foundation
+    Google Cloud organization structure and policy
+● Authentication and authorization
+● Resource hierarchy and deployment
+● Networking (segmentation and security)
+● Key and secret management
+● Logging
+● Detective controls
+● Billing setup
+● Creating and deploying secured applications
+● General security guidance
+    
