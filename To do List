@@ -1,5 +1,17 @@
+Introduce infrastructure and how we secured each part 
+S
+
 1. Vulnerability Scan
 2. Penetration testing
+    nmap fingerprinting
+    shodan network scanner
+    dns forward and reverse
+    dns zone transfer
+    identify related external sites
+    analyze head and option requests
+    data from error pages
+    checking the source code
+    
 3. Secure Code Review
     Authentication
     Authorization
@@ -13,3 +25,4 @@
   Password reset.
   Access to a database.
   The authentication process.
+5. Securing Google cloud
