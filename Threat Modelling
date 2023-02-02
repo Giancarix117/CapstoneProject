@@ -2,4 +2,5 @@ https://rsk-cyber-security.com/blog/guide-to-threat-modelling-for-web-apps/
 
 1. Security objectives
   1. Crown Jewel: source code
-  2. Confidentiality: DLP
+  2. Confidentiality: DLP, prevent unauthorized changes 
+  3. Availability: Keeping the service up and running, not as important as the other two
