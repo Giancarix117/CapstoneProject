@@ -4,3 +4,25 @@ https://rsk-cyber-security.com/blog/guide-to-threat-modelling-for-web-apps/
   1. Crown Jewel: source code
   2. Confidentiality: DLP, prevent unauthorized changes 
   3. Availability: Keeping the service up and running, not as important as the other two
+
+Passwords and authentication is handled by google.  
+Identifying trust boundaries.
+Identifying data flows.
+Identifying entry points.
+Identifying exit points.
+
+Trust levels: bare minimum, users cant do much, specialized accounts on GCP for handling different tasks to ensure that 
+even if one is compromised, they wont have access to everything
+
+Threats to the site
+
+protecting GCP is the most important part.
+
+https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
+
+compliance
+https://cloud.google.com/security/compliance
+
+Que no eres hermosa? uffff pues mira no quiero ser demasiado directo aun y se que solo te he visto en fotos jajajaja, 
+pero dime quien te metio esa idea en la cabeza para ir a pegarle porque hasta un ciego puede ver que eso no es cierto. 
+
