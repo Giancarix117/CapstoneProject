@@ -1,0 +1,12 @@
+sources:  
+1. Vulnerability scans
+  a. https://owasp.org/www-community/Vulnerability_Scanning_Tools
+  b. https://nmap.org/
+  c. https://www.shodan.io/
+  d. https://rsk-cyber-security.com/blog/guide-to-threat-modelling-for-web-apps/
+ 
+ 
+ GCP
+  1. https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
+  2.compliance
+  3 https://cloud.google.com/security/compliance
