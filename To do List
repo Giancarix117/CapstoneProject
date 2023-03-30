@@ -6,7 +6,9 @@ Make sure to Document every step and show pictures
 2. Penetration testing
     Broken Access Control
     Denial of Service https://owasp.org/Top10/A01_2021-Broken_Access_Control/
-    SQL Injection
+    SQL Injection https://cloud.google.com/blog/products/gcp/best-practices-for-securing-your-google-cloud-databases
+    Security Misconfiguration 
+        
     nmap fingerprinting
     shodan network scanner
     dns forward and reverse
