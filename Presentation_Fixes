@@ -1,0 +1,8 @@
+1st slide: What is the most relevant information? How does it find the information? On what basis does it let the user know
+if they should invest or not?
+TIPL is a search engine powered by the powerful GPT3 AI. It allows the user to gather the most relevant information about a stock,
+such as price to earning ratio, debt to equity, stock performance, public image, and other important factors. It ill also tell the
+user whether its favorable to invest or not. 
+
+Price-to-Earnings Ratio (P/E Ratio)- P/E ratio compares the stock’s price with the company’s earnings per share (EPS). For example, if a company is trading at Rs. 20 per share that produces EPS of Rs. 1 annually, then its P/E ratio is 20 which means that the share price is 20 times the company’s earnings on an annual basis.
+Debt to Equity Ratio- The debt-to-equity ratio helps in determining how much the company is in debt. High levels of debt are bad as it signals bankruptcy.
