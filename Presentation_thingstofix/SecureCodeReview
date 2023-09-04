@@ -1,0 +1,10 @@
+1. Secure code review is the process of reviewing and analyzing software code for potential security vulnerabilities and weaknesses.
+The goal of a secure code review is to identify and address secuiryt issues early in the software development lifecycle, before
+they can be exploited by attackers.
+
+At TIPL, we are strong believers in security by design. Ensuring that we prioritize security from the beginning is the best way to 
+keep our data and assets safe, since it may be costly and time consuming to implement later. 
+
+Failures in Identification, Authentication, and Access Control:
+Mishandling of identification and authentication can lead to serious repercussions. With proper access control policies and by implementing
+zero trust, each account is limited to the things they 
