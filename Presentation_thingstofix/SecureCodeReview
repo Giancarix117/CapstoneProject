@@ -7,4 +7,20 @@ keep our data and assets safe, since it may be costly and time consuming to impl
 
 Failures in Identification, Authentication, and Access Control:
 Mishandling of identification and authentication can lead to serious repercussions. With proper access control policies and by implementing
-zero trust, each account is limited to the things they 
+zero trust, each account is limited to access only what they need. 
+
+Potential Exposure of Sensitive Data:
+Potential exposure of sensitive data occurs when a company unknowingly exposes sensitive data or when security incident leads to 
+the data being compromised. Thhis could potentially ruin a company, since data such as PII and SPII is heavily protected by the 
+government, and if company IP is exposed, it could spell the end.
+
+Inadequate error handling:
+By itself, inadequate error handling wont cause too much damage. However, displaying too much information regarding an error could
+provide an attacker with the necessary data to carry out an attack. Rather than providing lengthy errror messages, we display
+error codes with minimal information. 
+
+Injection Flaws:
+Injections occur when an attacker supplies malicious input into the site. Ths could lead to a plethora of attacks, such as leaking
+private data, modifying information stored in databases, injecting malware, and other nefarious activities. By implementing proper
+measurments such as input validation and keeping our interal services and processes secure, we can greatly reduce the risk of a 
+successful injection. 
