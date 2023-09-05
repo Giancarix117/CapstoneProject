@@ -2,8 +2,18 @@ I was the one and only member of the security team for TIPL, and since I conduct
 I opted for calling myself the purple team.
 
 As
-As the chief security officer, I had to make sure we were following the secure development best practices. I communicated clearly with the developers
+Chief security officer, I had to make sure we were following the secure development best practices. I communicated clearly with the developers
 to make sure everything was implemented with a security mindset.  Implementing security from the beginning is a given,
 since doing it later would be much more expensive and complicated. 
 
-Purple team leader: As the one and only member of the purple team,  I conducted both offensive and defensive activities.
+Purple team leader: As the one and only member of the purple team,  I conducted both offensive and defensive activities. This included
+the inital vulnerability assesment and the penetration test
+
+Cloud security officer: GCP makes up a big part of our back-end. It is complex with a lot of moving parts, so making sure it was
+secure was one of the more challenging tasks. 
+
+IAM admin: Identitification and authorization management is a tedious process that must be managed correctly, or it can lead to sustantial
+security breaches. Every account must follow the least privilege principle.
+
+Web App Security Officer: On top of everything else, additional security measurements had to be applied to the web applications.
+Configuring the firewall, input validation, setting X-XRFT tokens, among other items. 
