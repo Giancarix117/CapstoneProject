@@ -16,7 +16,7 @@ but I will provide an overview of what each project entailed.
 
 First and foremost, my responsibility was to protect the users while they were accessing the platform. This was composed of multiple
 tasks, such as:
-1. Deleting any content that may be offensive to a user.
+1. Deleting any content that may be offensive.
 2. Deleting content that may facilitate locating an user.
 3. Reviewing threats and escalating them to the proper authorities if we deemed a threat may be carried out.
 4. Removing deceitful content which may trick a user into revealing information they normally would not. 
@@ -24,7 +24,10 @@ tasks, such as:
 6. If a user seemed to be in distress or required professional help, I would provide them the resources necessary. 
 7. Deleting content that may promote hate or violence. 
 8. Reducing the spread of misinformation. 
-
+9. Removing content that provided restricted goods and services
+10. Removing innapropriate content
+11. Age-gating certain content to protect minors. 
+12. Removing scams and other content meant to take advantage of users. 
 
 I also received plenty of trainings in order to comply with company policy and regulations.
 1. Phishing training
@@ -32,4 +35,6 @@ I also received plenty of trainings in order to comply with company policy and r
 3. Spam training
 4. Security breach training
 5. Clean desk training
-6. 
+6. Chain of command training
+7. Incident response training. 
+
